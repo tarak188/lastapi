@@ -1,0 +1,47 @@
+{
+    "universities": [
+      {
+        "nom": "Université de Tunis",
+        "faculties": [
+          {
+            "name": "Faculté des Sciences Humaines et Sociales de Tunis",
+            "place": "Q5V7+X5J, 94 Bd du 9 Avril 1938, Tunis 1007"
+          },
+          {
+            "name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
+            "place": "Tunis, 1089, 43 Av. Ali Trad, Tunis"
+          }
+        ]
+      },
+      {
+        "nom": "Université de Sousse",
+        "faculties": [
+          {
+            "name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
+            "place": "RJ46+CWH, Sousse"
+          },
+          {
+            "name": "Faculté de Médecine de Sousse",
+            "place": "RJHG+9G4, Av. Mohamed Karoui, Sousse 4002"
+          },
+          {
+            "name": "Faculté des Lettres et des Sciences Humaines de Sousse",
+            "place": "RJ28+48M, Sousse"
+          }
+        ]
+      },
+      {
+        "nom": "Université de Gafsa",
+        "faculties": [
+          {
+            "name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Gafsa",
+            "place": "Gafsa, Tunisia"
+          },
+          {
+            "name": "Faculté des Sciences et Techniques de Gafsa",
+            "place": "Gafsa, Tunisia"
+          }
+        ]
+      }
+    ]
+  }
