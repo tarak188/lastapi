@@ -1,50 +1,32 @@
 {
   "universities": [
     {
-      "nom": "Université de Tunis",
-      "adresse": "Q5V7+P4W, Bd du 9 Avril 1938, Tunis",
-      "faculties": [
-        {
-          "name": "Faculté des Sciences Humaines et Sociales de Tunis",
-          "place": "Q5V7+X5J, 94 Bd du 9 Avril 1938, Tunis 1007"
-        },
-        {
-          "name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
-          "place": "Tunis, 1089, 43 Av. Ali Trad, Tunis"
-        }
-      ]
+      "nom": "Faculté des Sciences Humaines et Sociales de Tunis",
+      "adresse": "Q5V7+X5J, 94 Bd du 9 Avril 1938, Tunis 1007"
     },
     {
-      "nom": "Université de Sousse",
-      "adresse": "RJQ4+5WW، نهج خليفة القروي, Susah",
-      "faculties": [
-        {
-          "name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
-          "place": "RJ46+CWH, Sousse"
-        },
-        {
-          "name": "Faculté de Médecine de Sousse",
-          "place": "RJHG+9G4, Av. Mohamed Karoui, Sousse 4002"
-        },
-        {
-          "name": "Faculté des Lettres et des Sciences Humaines de Sousse",
-          "place": "RJ28+48M, Sousse"
-        }
-      ]
+      "nom": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
+      "adresse": "4, Rue Abou Zakaria El Hafsi - Montfleury"
     },
     {
-      "nom": "Université de Gafsa",
-      "adresse": "طريق توزر, Gafsa 2112",
-      "faculties": [
-        {
-          "name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Gafsa",
-          "place": "Gafsa, Tunisia"
-        },
-        {
-          "name": "Faculté des Sciences et Techniques de Gafsa",
-          "place": "Gafsa, Tunisia"
-        }
-      ]
+      "nom": "Ecole Supérieure d'Economie Numérique",
+      "adresse": "R35F+278, Manouba"
+    },
+    {
+      "nom": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
+      "adresse": "RJ46+CWH, Sousse"
+    },
+    {
+      "nom": "Faculté de Médecine de Sousse",
+      "adresse": "RJHG+9G4, Av. Mohamed Karoui, Sousse 4002"
+    },
+    {
+      "nom": "Faculté des Lettres et des Sciences Humaines de Sousse",
+      "adresse": "RJ28+48M, Sousse"
+    },
+    {
+      "nom": "Faculté Privée des sciences de l’informatique et de management de Nabeul",
+      "adresse": "Devant MG, 8000 Rue Ali Belhouane, Nabeul‎"
     }
   ]
 }
